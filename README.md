@@ -1,2 +1,2 @@
 # Dio primeiro repositorio github
-Projeto desafio primeiro repositorio github
+Desafio de projeto primeiro repositorio github
